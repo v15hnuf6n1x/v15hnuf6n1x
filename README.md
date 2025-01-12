@@ -15,6 +15,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/v15hnu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="v15hnu" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v15hnuf6n1x&show_icons=true&locale=en" alt="v15hnuf6n1x" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=v15hnuf6n1x&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="v15hnuf6n1x's GitHub Stats" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v15hnuf6n1x&" alt="v15hnuf6n1x" /></p>
