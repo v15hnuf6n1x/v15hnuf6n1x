@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v15hnuf6n1x" alt="v15hnuf6n1x" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -17,4 +16,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=v15hnuf6n1x&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="v15hnuf6n1x's GitHub Stats" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v15hnuf6n1x&" alt="v15hnuf6n1x" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=v15hnuf6n1x" alt="GitHub Streak" /></a>
