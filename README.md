@@ -12,7 +12,7 @@
 - 🛠 Building personal projects that solve real problems  
 - 📊 Data Analysis with SQL, Excel, and Power BI  
 - 🐳 Dockerizing everything that moves  
-- 🌐 Web APIs, VSCode Remote Dev, Cloud Tunnels  
+- 🌐 Web APIs, emote Dev, Cloud Tunnels  
 - 📦 Open-source models & Local AI deployments  
 
 ---
