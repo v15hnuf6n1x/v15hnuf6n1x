@@ -43,11 +43,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-3C3C3C?style=flat\&logo=openai\&logoColor=white)
 
----
-
-### 🌐 Let's connect
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 🌍 Portfolio (in development)
 
 ---
 
